@@ -1,0 +1,1 @@
+Esta carpeta solo tendremos 3 archivos que serviran como plantilla inicial para crear los diferentes proyectos que iran a continuación.

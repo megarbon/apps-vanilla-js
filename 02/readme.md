@@ -1,0 +1,1 @@
+Crearemos paneles con imagenes para una web que se muevan dinamicamente como un carrusel, tendrán un pequeño texto cada panel y js para animarlos.
