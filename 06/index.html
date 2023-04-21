@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title img>Stop Smoke</title>
+    <link rel="icon" type="img/png" href="./src/piti-logo.png">
+    <link rel="stylesheet" href="/06/styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <h1>DIAS SIN FUMAR</h1>
+    <p>Introduce la fecha en la que dejaste de fumar:</p>
+    <input type="date" id="fecha-fumar" onchange="actualizarDias()" />
+    <p>Llevas <span id="dias-sin-fumar">0</span> días sin fumar.</p>
+    <div id="motivation">
+      <p>MOTIVACION</p>
+      <p id="motivation-text"></p>
+    </div>
+    <button id="motivation-button">Frase Nueva</button>
+  </body>
+</html>

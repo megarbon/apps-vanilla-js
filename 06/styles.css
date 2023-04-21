@@ -1,0 +1,157 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3a3a3a;
+  margin: 0;
+  padding: 0;
+  color: #f5f8fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 3rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 5rem;
+  margin-bottom: 3rem;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+input[type="date"] {
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  background-color: #1da1f2;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #0c8fd6;
+}
+
+/* Estilos específicos de Twitter */
+body {
+  font-size: 15px;
+}
+
+.container {
+  border: 1px solid #ccd6dd;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+}
+
+h1 {
+  font-weight: bold;
+  color: #1da1f2;
+}
+
+input[type="date"] {
+  background-color: #f5f8fa;
+}
+
+button {
+  background-color: #1da1f2;
+  box-shadow: none;
+}
+
+button:hover {
+  background-color: #0c8fd6;
+  box-shadow: none;
+}
+
+/* Estilos específicos de los párrafos */
+p {
+  font-size: 18px;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+p::before {
+  content: "\2022"; /* Agrega un círculo antes de cada párrafo */
+  font-size: 20px;
+  color: #1da1f2;
+  display: inline-block;
+  width: 1em;
+  margin-right: 10px;
+}
+
+/* Estilos específicos del campo de entrada de fecha */
+input[type="date"] {
+  font-size: 18px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  background-color: #f5f8fa;
+  color: #272727;
+  transition: all 0.2s ease-in-out;
+}
+
+input[type="date"]:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #1da1f2;
+}
+
+/* Estilos específicos para Twitter */
+p {
+  font-size: 16px;
+}
+
+p::before {
+  font-size: 18px;
+}
+
+input[type="date"] {
+  font-size: 16px;
+  padding: 10px 14px;
+}
+
+/* Estilos para la sección de frases motivacionales */
+#motivation {
+  background-color: #1da1f2;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+
+#motivation p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#motivation-text {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+button {
+  margin-top: 2rem;
+}
