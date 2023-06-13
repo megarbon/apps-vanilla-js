@@ -1,10 +1,11 @@
 # Vanilla JS Apps
 
-![JavaScript Logo](https://cdn.worldvectorlogo.com/logos/javascript-1.svg)
+![JavaScript Logo](https://cdn.worldvectorlogo.com/logos/javascript-1.svg){:width="100px" height="100px"}
+
 
 Este repositorio contiene varias aplicaciones sencillas creadas por un estudiante de JavaScript que está aprendiendo las funcionalidades del lenguaje a través de ejemplos prácticos. Cada proyecto se encuentra organizado en carpetas numeradas del tipo "01", "02", "03", etc.
 
-## Índice de Proyectos
+## Índice del Proyecto
 
 - [00 - Color Flipper](00/README.md): Cambia los colores de la pagina por uno aleatorio.
 - [01 - Galería de Imágenes](01/README.md): Una galería de imágenes que muestra una selección de fotos en un diseño de cuadrícula.
