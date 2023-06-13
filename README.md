@@ -1,6 +1,6 @@
 # Vanilla JS Apps
 
-![JavaScript Logo](https://cdn.worldvectorlogo.com/logos/javascript-1.svg){:width="100px" height="100px"}
+![JavaScript Logo](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png){:width="50px" height="50px"}
 
 
 Este repositorio contiene varias aplicaciones sencillas creadas por un estudiante de JavaScript que está aprendiendo las funcionalidades del lenguaje a través de ejemplos prácticos. Cada proyecto se encuentra organizado en carpetas numeradas del tipo "01", "02", "03", etc.
